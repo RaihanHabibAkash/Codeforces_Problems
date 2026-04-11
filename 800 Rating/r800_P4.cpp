@@ -2,6 +2,7 @@
 // Platform: Codeforces
 // Rating: 800
 // Link: https://codeforces.com/contest/1676/problem/B
+// Solved: Array, Loops, Conditions
 
 /*
 B. Equal Candies
