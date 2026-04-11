@@ -68,14 +68,14 @@ int main() {
 
         // Getting 2 sum
         for(string::iterator it = s.begin(); it < s.end() - 3; it++) {
-            sum1 += *it;
+            sum1 += *it - '0';
         }
         for(string::iterator it = s.begin() + 3; it < s.end(); it++) {
-            sum2 += *it;
+            sum2 += *it - '0';
         }
 
         if(sum1 == sum2) cout << "YES" << endl;
-        else cout << "NO" << endl;
+        else cout << "NO" << endl; 
 
     // While ends
     }
