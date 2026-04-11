@@ -2,6 +2,7 @@
 // Platform: Codeforces
 // Rating: 800
 // Link: https://codeforces.com/contest/734/problem/A
+// Solved: Condition, Char
 
 
 /*
