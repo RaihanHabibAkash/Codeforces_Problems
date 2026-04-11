@@ -2,6 +2,7 @@
 // Platform: Codeforces
 // Rating: 800
 // Link: https://codeforces.com/contest/1676/problem/A
+// Solved: String, Loop, Conditons
 
 /*
 A. Lucky?
