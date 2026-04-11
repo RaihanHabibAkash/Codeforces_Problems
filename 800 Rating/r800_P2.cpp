@@ -2,6 +2,7 @@
 // Platform: Codeforces
 // Rating: 800
 // Link: https://codeforces.com/problemset/problem/71/A
+// Solved: String, Conditions
 
 /*
 A. Way Too Long Words
