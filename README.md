@@ -7,3 +7,4 @@
 5. (800)=> https://codeforces.com/contest/1703/problem/B
 6. (800)=> https://codeforces.com/problemset/problem/4/A
 7. (1000)=> https://codeforces.com/contest/118/problem/A
+8. (800)=> https://codeforces.com/problemset/problem/2178/A
