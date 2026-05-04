@@ -2,7 +2,7 @@
 // Platform: Codeforces
 // Rating: 1000
 // Link: https://codeforces.com/contest/118/problem/A
-// Solved: String, Function, Condition
+// Solved: String, Loop, Function, Condition
 
 /*
 A. String Task
