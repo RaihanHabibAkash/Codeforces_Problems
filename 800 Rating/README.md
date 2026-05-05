@@ -7,3 +7,4 @@
 5. https://codeforces.com/contest/1703/problem/B
 6. https://codeforces.com/problemset/problem/4/A
 8. https://codeforces.com/problemset/problem/2178/A
+9. https://codeforces.com/problemset/problem/112/A
