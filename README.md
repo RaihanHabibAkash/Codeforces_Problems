@@ -10,3 +10,4 @@
 8. (800)=> https://codeforces.com/problemset/problem/2178/A
 9. (800)=> https://codeforces.com/problemset/problem/112/A
 10. (800)=> https://codeforces.com/problemset/problem/339/A
+11. (900)=> https://codeforces.com/problemset/problem/160/A
