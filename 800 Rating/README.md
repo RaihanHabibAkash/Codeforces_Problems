@@ -8,3 +8,4 @@
 6. https://codeforces.com/problemset/problem/4/A
 8. https://codeforces.com/problemset/problem/2178/A
 9. https://codeforces.com/problemset/problem/112/A
+10. https://codeforces.com/problemset/problem/339/A
