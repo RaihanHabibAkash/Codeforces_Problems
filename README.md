@@ -11,3 +11,4 @@
 9. (800)=> https://codeforces.com/problemset/problem/112/A
 10. (800)=> https://codeforces.com/problemset/problem/339/A
 11. (900)=> https://codeforces.com/problemset/problem/160/A
+12. (1000)=> https://codeforces.com/contest/122/problem/A
