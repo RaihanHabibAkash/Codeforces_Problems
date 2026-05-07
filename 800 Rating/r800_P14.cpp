@@ -47,12 +47,12 @@ int main() {
     int arr[len+1];
     for(int i = 1; i <= len; i++) cin >> arr[i];
 
-    // Person array
-    int person[len];
-    for(int i = 1; i <= len; i++) person[arr[i]] = i;
+    // Reciving from giver index
+    int reciver[len+1];
+    for(int giver = 1; giver <= len; giver++) reciver[arr[giver]] = giver;
 
     // Printing
-    for(int i = 1; i <= len; i++) cout << person[i] << " ";
+    for(int i = 1; i <= len; i++) cout << reciver[i] << " ";
     cout << endl;
 
     return 0;
