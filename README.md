@@ -14,3 +14,4 @@
 12. (1000)=> https://codeforces.com/contest/122/problem/A
 13. (1000)=> https://codeforces.com/problemset/problem/58/A
 14. (800)=> https://codeforces.com/problemset/problem/136/A
+15. (1000)=> https://codeforces.com/contest/69/problem/A
