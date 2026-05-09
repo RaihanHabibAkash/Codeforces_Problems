@@ -16,3 +16,4 @@
 14. (800)=> https://codeforces.com/problemset/problem/136/A
 15. (1000)=> https://codeforces.com/contest/69/problem/
 16. (800)=> https://codeforces.com/problemset/problem/263/A
+17. (800) https://codeforces.com/contest/266/problem/B
