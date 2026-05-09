@@ -49,7 +49,7 @@ int main() {
     string word; cin >> word;
 
     // Each times times G & B will swap
-    for(int t = 1; t <= time; time++) {
+    for(int t = 1; t <= time; t++) {
         for(int i = 0; i < len-1; i++) {
             if(word[i] == 'B' && word[i+1] == 'G') {
                 swap(word[i], word[i+1]);
@@ -58,6 +58,9 @@ int main() {
             }
         }
     }
+
+    // Printing
+    cout << word << endl;
 
     return 0;
 }
