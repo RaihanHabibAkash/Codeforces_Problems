@@ -18,3 +18,5 @@
 16. (800)=> https://codeforces.com/problemset/problem/263/A
 17. (800)=> https://codeforces.com/contest/266/problem/B
 18. (800)=> https://codeforces.com/problemset/problem/32/B
+
+[Problem 19(800)](https://codeforces.com/problemset/problem/271/A)
