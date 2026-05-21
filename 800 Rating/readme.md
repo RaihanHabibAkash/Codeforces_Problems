@@ -24,6 +24,6 @@
 
 [Solution 17](https://codeforces.com/contest/266/problem/B)
 
-[Solution 19(800)](https://codeforces.com/problemset/problem/271/A)
+[Solution 19](https://codeforces.com/problemset/problem/271/A)
 
-[Solution 20(800)](https://codeforces.com/contest/59/problem/A)
+[Solution 20](https://codeforces.com/contest/59/problem/A)
