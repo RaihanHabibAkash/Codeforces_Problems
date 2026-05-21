@@ -1,3 +1,3 @@
-<Rating 900>
+# Rating 900
 
-11. https://codeforces.com/problemset/problem/160/A
+[Solution 11](https://codeforces.com/problemset/problem/160/A)
