@@ -39,3 +39,5 @@
 [Solution 19(800)](https://codeforces.com/problemset/problem/271/A)
 
 [Solution 20(800)](https://codeforces.com/contest/59/problem/A)
+
+[Solution 21(800)](https://codeforces.com/problemset/problem/281/A)

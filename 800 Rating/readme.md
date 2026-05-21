@@ -27,3 +27,5 @@
 [Solution 19](https://codeforces.com/problemset/problem/271/A)
 
 [Solution 20](https://codeforces.com/contest/59/problem/A)
+
+[Solution 21](https://codeforces.com/problemset/problem/281/A)
