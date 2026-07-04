@@ -47,3 +47,5 @@
 [Solution 2227(800)](https://codeforces.com/contest/2227/problem/A)
 
 [Solution 4C(1300)](https://codeforces.com/contest/4/problem/C)
+
+[Solution 22A(800)](https://codeforces.com/contest/22/problem/A)
