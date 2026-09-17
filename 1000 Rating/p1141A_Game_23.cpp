@@ -58,28 +58,27 @@ In the second example, no moves are needed. Thus, the answer is 0
 In the third example, it is impossible to transform 48
  to 72
 */
+
 #include <bits/stdc++.h>
 using namespace std;
-
+#define ll long long
+ 
 int game(int a, int b) {
     if(a == b) return 0;
     else if(a > b) return -1;
-
+ 
     int option1 = game(a*3, b),
         option2 = game(a*2, b);
-
-    if(option1 == -1 && option2 == -1) return -1;
-
-    int mn = min(option1, option2);
-
-    if(mn == -1) return max(option1, option2) + 1;
-    else return mn + 1;
+ 
+    if(option1 != -1) return option1 + 1;
+    else if(option2 != -1) return option2 + 1;
+    return -1;
 }
-
+ 
 int main() {
-    int a, b; cin >> a >> b;
-
+    ll a, b; cin >> a >> b;
+ 
     cout << game(a, b) << endl;
-
+ 
     return 0;
 }
