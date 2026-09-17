@@ -7,3 +7,5 @@
 [Solution 58A(1000)](https://codeforces.com/problemset/problem/58/A)
 
 [Solution 69A(1000)](https://codeforces.com/contest/69/problem/A)
+
+[1141 A - Game23(1000)](https://codeforces.com/contest/1141/problem/A)

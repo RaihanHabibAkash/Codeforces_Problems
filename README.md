@@ -59,3 +59,5 @@
 [Solution 20C(1900)](https://codeforces.com/contest/20/problem/C)
 
 [Solution 25D(1900)](https://codeforces.com/contest/25/problem/D)
+
+[1141 A - Game23(1000)](https://codeforces.com/contest/1141/problem/A)
