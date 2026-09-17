@@ -60,7 +60,6 @@ In the third example, it is impossible to transform 48
 */
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long
 
 int game(int a, int b) {
     if(a == b) return 0;
@@ -69,13 +68,16 @@ int game(int a, int b) {
     int option1 = game(a*3, b),
         option2 = game(a*2, b);
 
-    if(option1 != -1) return option1 + 1;
-    else if(option2 != -1) return option2 + 1;
-    return -1;
+    if(option1 == -1 && option2 == -1) return -1;
+
+    int mn = min(option1, option2);
+
+    if(mn == -1) return max(option1, option2) + 1;
+    else return mn + 1;
 }
 
 int main() {
-    ll a, b; cin >> a >> b;
+    int a, b; cin >> a >> b;
 
     cout << game(a, b) << endl;
 
