@@ -41,3 +41,5 @@
 [Solution 2106A(800)](https://codeforces.com/problemset/problem/2106/A)
 
 [Solution 2254A(800)](https://codeforces.com/contest/2254/problem/A)
+
+[A. Plus or Minus - 1807(800)](https://codeforces.com/contest/1807/problem/A)
