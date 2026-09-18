@@ -61,3 +61,5 @@
 [Solution 25D(1900)](https://codeforces.com/contest/25/problem/D)
 
 [1141 A - Game23(1000)](https://codeforces.com/contest/1141/problem/A)
+
+[Wet Shark and Odd and Even - 621A(900)](https://codeforces.com/contest/621/problem/A)
