@@ -65,3 +65,5 @@
 [Wet Shark and Odd and Even - 621A(900)](https://codeforces.com/contest/621/problem/A)
 
 [A. Plus or Minus - 1807(800)](https://codeforces.com/contest/1807/problem/A)
+
+[A. GamingForces - 1792(800)](https://codeforces.com/contest/1792/problem/A)
