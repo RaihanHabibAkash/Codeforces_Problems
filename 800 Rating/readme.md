@@ -45,3 +45,5 @@
 [A. Plus or Minus - 1807(800)](https://codeforces.com/contest/1807/problem/A)
 
 [A. GamingForces - 1792(800)](https://codeforces.com/contest/1792/problem/A)
+
+[C. Cypher - 1703(800)](https://codeforces.com/problemset/problem/1703/C)
