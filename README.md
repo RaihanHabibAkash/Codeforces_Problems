@@ -69,3 +69,5 @@
 [A. GamingForces - 1792(800)](https://codeforces.com/contest/1792/problem/A)
 
 [C. Cypher - 1703(800)](https://codeforces.com/problemset/problem/1703/C)
+
+[B. Colourblindness - 1722(800)](https://codeforces.com/contest/1722/problem/B)
