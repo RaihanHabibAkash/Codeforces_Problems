@@ -71,3 +71,5 @@
 [C. Cypher - 1703(800)](https://codeforces.com/problemset/problem/1703/C)
 
 [B. Colourblindness - 1722(800)](https://codeforces.com/contest/1722/problem/B)
+
+[B. Chemistry - 1883(900)](https://codeforces.com/contest/1883/problem/B)
