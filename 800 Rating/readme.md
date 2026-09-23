@@ -49,3 +49,5 @@
 [C. Cypher - 1703(800)](https://codeforces.com/problemset/problem/1703/C)
 
 [B. Colourblindness - 1722(800)](https://codeforces.com/contest/1722/problem/B)
+
+[A. Iskander and Drawings - 2244(800)](https://codeforces.com/contest/2244/problem/A)
