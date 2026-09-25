@@ -75,3 +75,5 @@
 [B. Chemistry - 1883(900)](https://codeforces.com/contest/1883/problem/B)
 
 [A. Iskander and Drawings - 2244(800)](https://codeforces.com/contest/2244/problem/A)
+
+[A. Skibidus and Amog'u - 2065(800)](https://codeforces.com/contest/2065/problem/A)
