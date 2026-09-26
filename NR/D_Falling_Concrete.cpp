@@ -1,6 +1,7 @@
 // Topic: Finding an invariant (Need to learn)
 // Not Submited in Contest
 // Get helped by chatgpt but still why unique value is need did not understood (set use)
+// https://codeforces.com/contest/2266/problem/D
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
