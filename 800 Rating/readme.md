@@ -61,3 +61,5 @@
 [B. Three Piles - 2266(800)](https://codeforces.com/contest/2266/problem/B)
 
 [A. The 67th Integer Problem - 2218(800)](https://codeforces.com/contest/2218/problem/A)
+
+[B. The 67th 6-7 Integer Problem - 2218(800)](https://codeforces.com/contest/2218/problem/B)
