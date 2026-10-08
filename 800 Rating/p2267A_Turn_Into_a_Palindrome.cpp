@@ -1,8 +1,7 @@
 // Problem: A. Turn Into a Palindrome
 // Platform: Codeforces
-// Rating: 
 // Link: https://codeforces.com/contest/2267/problem/A
-// Solved: Palindrome checking in string
+// Solved: String
 /*
 Ali has a string s
  consisting of n

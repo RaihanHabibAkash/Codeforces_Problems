@@ -55,3 +55,5 @@
 [A. Skibidus and Amog'u - 2065(800)](https://codeforces.com/contest/2065/problem/A)
 
 [A. Good Contest - 2266(800)](https://codeforces.com/contest/2266/problem/A)
+
+[A. Turn Into a Palindrome - 2267(800)](https://codeforces.com/contest/2267/problem/A)
