@@ -89,3 +89,5 @@
 [B. The 67th 6-7 Integer Problem - 2218(800)](https://codeforces.com/contest/2218/problem/B)
 
 [C. The 67th Permutation Problem - 2218(800)](https://codeforces.com/contest/2218/problem/C)
+
+[A. Two Frogs - 2055(800)](https://codeforces.com/problemset/problem/2055/A)
