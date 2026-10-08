@@ -83,3 +83,5 @@
 [A. Turn Into a Palindrome - 2267(800)](https://codeforces.com/contest/2267/problem/A)
 
 [B. Three Piles - 2266(800)](https://codeforces.com/contest/2266/problem/B)
+
+[A. The 67th Integer Problem - 2218(800)](https://codeforces.com/contest/2218/problem/A)
