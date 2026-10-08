@@ -57,3 +57,5 @@
 [A. Good Contest - 2266(800)](https://codeforces.com/contest/2266/problem/A)
 
 [A. Turn Into a Palindrome - 2267(800)](https://codeforces.com/contest/2267/problem/A)
+
+[B. Three Piles - 2266(800)](https://codeforces.com/contest/2266/problem/B)
