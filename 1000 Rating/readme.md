@@ -8,4 +8,6 @@
 
 [Solution 69A(1000)](https://codeforces.com/contest/69/problem/A)
 
-[1141 A - Game23(1000)](https://codeforces.com/contest/1141/problem/A)
+[A Game23 - 1141(1000)](https://codeforces.com/contest/1141/problem/A)
+
+[C. Premutation - 1790(1000)](https://codeforces.com/contest/1790/problem/C)
