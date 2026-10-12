@@ -11,3 +11,5 @@
 [A Game23 - 1141(1000)](https://codeforces.com/contest/1141/problem/A)
 
 [C. Premutation - 1790(1000)](https://codeforces.com/contest/1790/problem/C)
+
+[B. Lady Bug - 2092](https://codeforces.com/problemset/problem/2092/B)

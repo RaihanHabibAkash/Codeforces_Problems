@@ -93,3 +93,5 @@
 [A. Two Frogs - 2055(800)](https://codeforces.com/problemset/problem/2055/A)
 
 [C. Premutation - 1790(1000)](https://codeforces.com/contest/1790/problem/C)
+
+[B. Lady Bug - 2092](https://codeforces.com/problemset/problem/2092/B)
