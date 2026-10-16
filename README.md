@@ -94,4 +94,6 @@
 
 [C. Premutation - 1790(1000)](https://codeforces.com/contest/1790/problem/C)
 
-[B. Lady Bug - 2092](https://codeforces.com/problemset/problem/2092/B)
+[B. Lady Bug - 2092(1000)](https://codeforces.com/problemset/problem/2092/B)
+
+[D. Line - 1772(1100)](https://codeforces.com/contest/1722/problem/D)
