@@ -97,3 +97,5 @@
 [B. Lady Bug - 2092(1000)](https://codeforces.com/problemset/problem/2092/B)
 
 [D. Line - 1772(1100)](https://codeforces.com/contest/1722/problem/D)
+
+[A. Make it White - 1927(800)](https://codeforces.com/contest/1927/problem/A)

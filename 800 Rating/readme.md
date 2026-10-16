@@ -67,3 +67,5 @@
 [C. The 67th Permutation Problem - 2218(800)](https://codeforces.com/contest/2218/problem/C)
 
 [A. Two Frogs - 2055(800)](https://codeforces.com/problemset/problem/2055/A)
+
+[A. Make it White - 1927(800)](https://codeforces.com/contest/1927/problem/A)
