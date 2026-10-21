@@ -103,3 +103,5 @@
 [A. Sereja and Dima - 381(800)](https://codeforces.com/contest/381/problem/A)
 
 [A. Indian Summer - 44(900)](https://codeforces.com/problemset/problem/44/A)
+
+[A. IQ test - 25(1300)](https://codeforces.com/contest/25/problem/A)
