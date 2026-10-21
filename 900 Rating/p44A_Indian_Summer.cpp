@@ -19,15 +19,13 @@ int main() {
     ios::sync_with_stdio(false), cin.tie(nullptr);
 
     int cs; cin >> cs;
-    map<pair<string,string>, int> mp;
+    map<pair<string,string>, bool> mp;
     while(cs--) {
         string s1, s2; cin >> s1 >> s2;
-        mp[{s1, s2}]++;
+        mp[{s1, s2}] = true;
     }
 
-    int cnt = 0;
-    for(auto x : mp) cnt++;
-    cout << cnt << endl;
+    cout << mp.size() << endl;
     
     return 0;
 }
