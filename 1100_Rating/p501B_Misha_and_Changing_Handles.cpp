@@ -2,7 +2,7 @@
 // Platform: Codeforces
 // Rating: 1100
 // Link: https://codeforces.com/problemset/problem/501/B
-// Solved: Map find & erase logic
+// Solved: Map find & erase logic, Iterators
 /*
 Misha hacked the Codeforces site. Then he decided to let all the users change their handles. A user can now change his handle any number of times. But each new handle must not be equal to any handle that is already used or that was used at some point.
 
