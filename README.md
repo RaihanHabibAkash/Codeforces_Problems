@@ -105,3 +105,5 @@
 [A. Indian Summer - 44(900)](https://codeforces.com/problemset/problem/44/A)
 
 [A. IQ test - 25(1300)](https://codeforces.com/contest/25/problem/A)
+
+[B. Misha and Changing Handles - 501(1100)](https://codeforces.com/problemset/problem/501/B)
