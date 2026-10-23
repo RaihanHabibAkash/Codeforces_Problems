@@ -107,3 +107,5 @@
 [A. IQ test - 25(1300)](https://codeforces.com/contest/25/problem/A)
 
 [B. Misha and Changing Handles - 501(1100)](https://codeforces.com/problemset/problem/501/B)
+
+[C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
