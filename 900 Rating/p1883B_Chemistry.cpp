@@ -2,7 +2,7 @@
 // Platform: Codeforces
 // Rating: 900
 // Link: https://codeforces.com/contest/1883/problem/B
-// Solved: Palindrome — Frequency Observation (Google keep)
+// Solved: Palindrome — Frequency Observation
 /*
 You are given a string s
  of length n
