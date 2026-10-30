@@ -111,3 +111,5 @@
 [C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
 
 [B. YetnotherrokenKeoard - 1907(1000)](https://codeforces.com/problemset/problem/1907/B)
+
+[B. Radio Station - 918(900)](https://codeforces.com/problemset/problem/918/B)

@@ -7,3 +7,5 @@
 [B. Chemistry - 1883(900)](https://codeforces.com/contest/1883/problem/B)
 
 [A. Indian Summer - 44(900)](https://codeforces.com/problemset/problem/44/A)
+
+[B. Radio Station - 918(900)](https://codeforces.com/problemset/problem/918/B)
