@@ -113,3 +113,5 @@
 [B. YetnotherrokenKeoard - 1907(1000)](https://codeforces.com/problemset/problem/1907/B)
 
 [B. Radio Station - 918(900)](https://codeforces.com/problemset/problem/918/B)
+
+[B. Chat Order - 637(1200)](https://codeforces.com/contest/637/problem/B)
