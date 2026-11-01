@@ -123,3 +123,5 @@
 [B. Did Not Go to Print - 2275(800)](https://codeforces.com/contest/2275/problem/B)
 
 [C. Unrequited Love - 2275(1000)](https://codeforces.com/contest/2275/problem/C)
+
+[A. Strong Password - 1997(800)](https://codeforces.com/contest/1997/problem/A)
