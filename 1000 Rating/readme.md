@@ -15,3 +15,5 @@
 [B. Lady Bug - 2092(1000)](https://codeforces.com/problemset/problem/2092/B)
 
 [B. YetnotherrokenKeoard - 1907(1000)](https://codeforces.com/problemset/problem/1907/B)
+
+[C. Unrequited Love - 2275(1000)](https://codeforces.com/contest/2275/problem/C)

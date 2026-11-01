@@ -121,3 +121,5 @@
 [A. In Search of Convenience - 2275(800)](https://codeforces.com/contest/2275/problem/A)
 
 [B. Did Not Go to Print - 2275(800)](https://codeforces.com/contest/2275/problem/B)
+
+[C. Unrequited Love - 2275(1000)](https://codeforces.com/contest/2275/problem/C)
