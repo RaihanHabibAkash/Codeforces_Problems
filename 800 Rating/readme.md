@@ -73,3 +73,5 @@
 [A. Sereja and Dima - 381(800)](https://codeforces.com/contest/381/problem/A)
 
 [C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
+
+[A. Tom Riddle's Diary - 855(800)](https://codeforces.com/contest/855/problem/A)
