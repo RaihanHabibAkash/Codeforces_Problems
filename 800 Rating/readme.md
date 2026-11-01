@@ -75,3 +75,5 @@
 [C. Word Game - 1772(800)](https://codeforces.com/problemset/problem/1722/C)
 
 [A. Tom Riddle's Diary - 855(800)](https://codeforces.com/contest/855/problem/A)
+
+[A. In Search of Convenience - 2275(800)](https://codeforces.com/contest/2275/problem/A)
