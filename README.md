@@ -125,3 +125,5 @@
 [C. Unrequited Love - 2275(1000)](https://codeforces.com/contest/2275/problem/C)
 
 [A. Strong Password - 1997(800)](https://codeforces.com/contest/1997/problem/A)
+
+[B. Remove Prefix - 1714(800)](https://codeforces.com/contest/1714/problem/B)

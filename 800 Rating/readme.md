@@ -81,3 +81,5 @@
 [B. Did Not Go to Print - 2275(800)](https://codeforces.com/contest/2275/problem/B)
 
 [A. Strong Password - 1997(800)](https://codeforces.com/contest/1997/problem/A)
+
+[B. Remove Prefix - 1714(800)](https://codeforces.com/contest/1714/problem/B)
