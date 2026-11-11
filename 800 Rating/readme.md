@@ -83,3 +83,5 @@
 [A. Strong Password - 1997(800)](https://codeforces.com/contest/1997/problem/A)
 
 [B. Remove Prefix - 1714(800)](https://codeforces.com/contest/1714/problem/B)
+
+[B. Symmetric Encoding - 1974(800)](https://codeforces.com/contest/1974/problem/B)
