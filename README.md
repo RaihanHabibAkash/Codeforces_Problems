@@ -133,3 +133,5 @@
 [C. Boxes Packing - 903(1200)](https://codeforces.com/problemset/problem/903/C)
 
 [B. Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+
+[B. Polycarp Training - 1165(1000)](https://codeforces.com/contest/1165/problem/B)

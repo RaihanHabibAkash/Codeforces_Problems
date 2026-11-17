@@ -17,3 +17,5 @@
 [B. YetnotherrokenKeoard - 1907(1000)](https://codeforces.com/problemset/problem/1907/B)
 
 [C. Unrequited Love - 2275(1000)](https://codeforces.com/contest/2275/problem/C)
+
+[B. Polycarp Training - 1165(1000)](https://codeforces.com/contest/1165/problem/B)
