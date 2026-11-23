@@ -1,12 +1,22 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+class Cmp {
+public:
+    bool operator()(pair<int,int> a, pair<int,int> b) {
+        if(a.first == b.first) return a.second > b.second;
+        return a.first < b.first;
+    }
+};
+
 int main() {
     ios::sync_with_stdio(false), cin.tie(nullptr);
     
     int cs; cin >> cs;
-    set<pair<int,int>> s;
-    multiset<pair<int,int>> ms;
+    priority_queue<pair<int,int>, vector<pair<int,int>>, Cmp> pq;
+    queue<int> q;
+    map<int, bool> mp;
 
     int i = 1;
     while(cs--) {
@@ -14,19 +24,21 @@ int main() {
 
         if(type == 1) {
             int money; cin >> money;
-            s.insert({i, money});
-            ms.insert({money, -i});
+            pq.push({money, i});
+            q.push(i);
             i++;
         }
         else if(type == 2) {
-            cout << s.begin()->first << " ";
-            ms.erase({s.begin()->second,-s.begin()->first});
-            s.erase(s.begin());
+            while(mp.find(q.front()) != mp.end()) q.pop();
+            cout << q.front() << " ";
+            mp[q.front()] = true;
+            q.pop();
         }
         else {
-            cout << -ms.rbegin()->second << " ";
-            s.erase({-ms.rbegin()->second, ms.rbegin()->first});
-            ms.erase(--ms.end());
+            while(mp.find(pq.top().second) != mp.end()) pq.pop();
+            cout << pq.top().second << " ";
+            mp[pq.top().second] = true;
+            pq.pop();
         }
     }
     cout << endl;
