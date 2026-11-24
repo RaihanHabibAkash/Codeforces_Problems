@@ -2,7 +2,7 @@
 // Platform: Codeforces
 // Rating: 1300
 // Link: https://codeforces.com/contest/1498/problem/B
-// Solved: STL Set, Negetive searching
+// Solved: STL MultiSet, Negetive searching
 /*
 You are given n
  rectangles, each of height 1
