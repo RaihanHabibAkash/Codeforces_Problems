@@ -3,3 +3,5 @@
 [Solution 4C(1300)](https://codeforces.com/contest/4/problem/C)
 
 [A. IQ test - 25(1300)](https://codeforces.com/contest/25/problem/A)
+
+[B. Box Fitting - 1498(1300)](https://codeforces.com/contest/1498/problem/B)
