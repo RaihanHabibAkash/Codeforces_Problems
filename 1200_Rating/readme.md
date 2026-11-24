@@ -5,3 +5,5 @@
 [C. Boxes Packing - 903(1200)](https://codeforces.com/problemset/problem/903/C)
 
 [C. Dora and Search - 1793(1200)](https://codeforces.com/problemset/problem/1793/C)
+
+[E. 2-Letter Strings - 1669(1200)](https://codeforces.com/contest/1669/problem/E)
