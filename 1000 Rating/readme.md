@@ -21,3 +21,5 @@
 [B. Polycarp Training - 1165(1000)](https://codeforces.com/contest/1165/problem/B)
 
 [C. Numeric String Template - 2000(1000)](https://codeforces.com/contest/2000/problem/C)
+
+[C. Numbers on Whiteboard - 1430(1000)](https://codeforces.com/contest/1430/problem/C)
